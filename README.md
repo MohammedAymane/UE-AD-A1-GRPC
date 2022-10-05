@@ -19,7 +19,7 @@
 
 ## :dart: About ##
 
-This is a simple microservice application to manage movies reservation implemented using Flask and REST and gRPC technology
+This is a simple microservice application to manage movies reservation implemented using Flask, REST and gRPC technology
 ## :sparkles: Features ##
 
 :heavy_check_mark: CRUD for movies reservation
