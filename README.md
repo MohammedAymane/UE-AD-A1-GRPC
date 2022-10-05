@@ -48,7 +48,6 @@ Each folder contains a :
   - Proto file that contains the methods offered by the service (in case it is a gRPC service)
   - A json file as a database.
   - A Requirement file and a Dockerfile to create a docker image for the service
-  - The OpenApi specification for the service (in case it is a REST service)
 ```
 UE-AD-A1-REST
 │   README.md
