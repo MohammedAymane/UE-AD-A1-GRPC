@@ -99,7 +99,7 @@ UE-AD-A1-REST
 │   │   requirements.txt
 │   │
 │   └───data
-│       │   user.json
+│       │   users.json
 ```
 
 ## :checkered_flag: Starting ##
