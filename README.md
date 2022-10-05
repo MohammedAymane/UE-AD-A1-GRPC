@@ -62,7 +62,6 @@ UE-AD-A1-REST
 │   │   booking.py
 │   │   Dockerfile
 │   │   requirements.txt
-│   │   UE-archi-distribuees-Booking-1.0.0-resolved.yaml
 │   │
 │   └───data
 │   │   │   bookings.json
@@ -75,7 +74,6 @@ UE-AD-A1-REST
 │   │   movie.py
 │   │   Dockerfile
 │   │   requirements.txt
-│   │   UE-archi-distribuees-Movie-1.0.0-resolved.yaml
 │   │
 │   └───data
 │   │   │   movies.json
@@ -88,7 +86,6 @@ UE-AD-A1-REST
 │   │   showtime.py
 │   │   Dockerfile
 │   │   requirements.txt
-│   │   UE-archi-distribuees-Showtime-1.0.0-resolved.yaml
 │   │
 │   └───data
 │   │   │   times.json
@@ -101,7 +98,6 @@ UE-AD-A1-REST
 │   │   user.py
 │   │   Dockerfile
 │   │   requirements.txt
-│   │   UE-archi-distribuees-User-1.0.0-resolved.yaml
 │   │
 │   └───data
 │       │   user.json
